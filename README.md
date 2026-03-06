@@ -1,4 +1,4 @@
-# Week 15 Graded Mini Project – RAG Assistant
+# Project – RAG Assistant
 
 ## Domain
 Technology – Git Documentation Assistant
