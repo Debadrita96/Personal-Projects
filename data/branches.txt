@@ -1,0 +1,3 @@
+A branch is an independent line of development in Git.
+Branches allow users to work on features without affecting the main branch.
+Branches can later be merged into another branch.

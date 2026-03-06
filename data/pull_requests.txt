@@ -1,0 +1,2 @@
+A pull request is a request to review and merge changes from one branch into another.
+Pull requests support discussion, code review, and approval before merging.

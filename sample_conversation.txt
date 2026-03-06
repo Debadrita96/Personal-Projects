@@ -1,0 +1,8 @@
+User: What is a pull request?
+Bot: A pull request is a request to review and merge changes from one branch into another.
+
+User: Can it be reviewed before merging?
+Bot: Yes. According to the documents, pull requests support discussion and code review before merging.
+
+User: Does Git deploy code automatically?
+Bot: I don’t have enough information in the provided documents.

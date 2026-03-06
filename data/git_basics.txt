@@ -1,0 +1,3 @@
+Git is a distributed version control system used to track changes in files.
+A repository stores project files and their revision history.
+Common commands include git init, git clone, git add, git commit, and git status.

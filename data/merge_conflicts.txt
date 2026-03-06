@@ -1,0 +1,2 @@
+A merge conflict happens when Git cannot automatically reconcile differences between branches.
+Conflicts must be resolved manually before the merge can be completed.
